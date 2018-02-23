@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: jars/common.jar
+Main-Class: com.monitor.controler.MainThread
+
